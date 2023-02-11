@@ -1,0 +1,15 @@
+C:\Users\acer\OneDrive\Рабочий стол\C# Start\Projects\Project001\bin\Debug\net6.0\Project001.exe
+C:\Users\acer\OneDrive\Рабочий стол\C# Start\Projects\Project001\bin\Debug\net6.0\Project001.deps.json
+C:\Users\acer\OneDrive\Рабочий стол\C# Start\Projects\Project001\bin\Debug\net6.0\Project001.runtimeconfig.json
+C:\Users\acer\OneDrive\Рабочий стол\C# Start\Projects\Project001\bin\Debug\net6.0\Project001.dll
+C:\Users\acer\OneDrive\Рабочий стол\C# Start\Projects\Project001\bin\Debug\net6.0\Project001.pdb
+C:\Users\acer\OneDrive\Рабочий стол\C# Start\Projects\Project001\obj\Debug\net6.0\Project001.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Рабочий стол\C# Start\Projects\Project001\obj\Debug\net6.0\Project001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive\Рабочий стол\C# Start\Projects\Project001\obj\Debug\net6.0\Project001.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive\Рабочий стол\C# Start\Projects\Project001\obj\Debug\net6.0\Project001.AssemblyInfo.cs
+C:\Users\acer\OneDrive\Рабочий стол\C# Start\Projects\Project001\obj\Debug\net6.0\Project001.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Рабочий стол\C# Start\Projects\Project001\obj\Debug\net6.0\Project001.dll
+C:\Users\acer\OneDrive\Рабочий стол\C# Start\Projects\Project001\obj\Debug\net6.0\refint\Project001.dll
+C:\Users\acer\OneDrive\Рабочий стол\C# Start\Projects\Project001\obj\Debug\net6.0\Project001.pdb
+C:\Users\acer\OneDrive\Рабочий стол\C# Start\Projects\Project001\obj\Debug\net6.0\Project001.genruntimeconfig.cache
+C:\Users\acer\OneDrive\Рабочий стол\C# Start\Projects\Project001\obj\Debug\net6.0\ref\Project001.dll
