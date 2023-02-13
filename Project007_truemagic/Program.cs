@@ -17,7 +17,7 @@ int x = xa, y = xb;
 
 int count = 0;
 
-while(count < 1000000)
+while(count < 10000)
 {
     int point = new Random().Next(0, 3); // [0, 3) or 0, 1, 2
     if (point == 0)
